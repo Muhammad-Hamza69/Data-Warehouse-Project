@@ -1,3 +1,5 @@
+# Architecture Diagram
+
 <img width="996" height="584" alt="image" src="https://github.com/user-attachments/assets/4448abfb-d67d-456f-8910-16171c7a3c65" />
 
 # Data-Warehouse-Project
